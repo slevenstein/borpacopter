@@ -847,7 +847,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pm: {fileID: 756170035}
   normalSpeedCap: 25
-  cumSpeedCap: 50
+  gooSpeedCap: 50
 --- !u!1 &810733110
 GameObject:
   m_ObjectHideFlags: 0

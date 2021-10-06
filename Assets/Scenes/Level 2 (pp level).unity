@@ -705,7 +705,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pm: {fileID: 756170035}
   normalSpeedCap: 25
-  cumSpeedCap: 50
+  gooSpeedCap: 50
 --- !u!1001 &839278784
 PrefabInstance:
   m_ObjectHideFlags: 0

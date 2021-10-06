@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7568463701454360215}
   m_Layer: 3
-  m_Name: cum_spawn
+  m_Name: goo_spawn
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -239,7 +239,7 @@ MonoBehaviour:
   m_CeilingCheck: {fileID: 2457170812027594648}
   m_CrouchDisableCollider: {fileID: 0}
   pm: {fileID: 2457170812223919542}
-  cum: {fileID: 2457170812223919537}
+  goo: {fileID: 2457170812223919537}
   spinJuiceMax: 5
   flippedCD: 10
   OnLandEvent:
@@ -280,8 +280,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5dc62c45cc9f029478f70eb8f7c997c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cum_spawn: {fileID: 1823145048555014627}
-  cum_prefab: {fileID: 4762570914541242119, guid: 2c92832233b2c0f4da78e9e66b135990, type: 3}
+  goo_spawn: {fileID: 1823145048555014627}
+  goo_prefab: {fileID: 4762570914541242119, guid: 2c92832233b2c0f4da78e9e66b135990, type: 3}
   m_Thrust: 400
   facing_right: 1
 --- !u!114 &2457170812223919548
@@ -310,4 +310,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pm: {fileID: 2457170812223919542}
   normalSpeedCap: 25
-  cumSpeedCap: 50
+  gooSpeedCap: 50

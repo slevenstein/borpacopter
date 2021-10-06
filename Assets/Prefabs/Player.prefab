@@ -291,7 +291,7 @@ MonoBehaviour:
   m_GroundCheck: {fileID: 5986514353705852952}
   m_CeilingCheck: {fileID: 5986514353634020653}
   m_CrouchDisableCollider: {fileID: 0}
-  cum: {fileID: 0}
+  goo: {fileID: 0}
   spinJuiceMax: 10
   flippedCD: 10
   OnLandEvent:
@@ -328,8 +328,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5dc62c45cc9f029478f70eb8f7c997c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cum_spawn: {fileID: 0}
-  cum_prefab: {fileID: 0}
+  goo_spawn: {fileID: 0}
+  goo_prefab: {fileID: 0}
   m_Thrust: 20
   facing_right: 1
 --- !u!1 &7512246073853518678
@@ -342,7 +342,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1730883505230898210}
   m_Layer: 3
-  m_Name: cum_socket
+  m_Name: goo_socket
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

@@ -9,7 +9,7 @@ TagManager:
   - GameManager
   - Win
   - Sound
-  - Cum
+  - Goo
   - boss
   layers:
   - Default
@@ -19,7 +19,7 @@ TagManager:
   - Water
   - UI
   - ground
-  - cum
+  - goo
   - 
   - 
   - 

@@ -177,8 +177,8 @@ GameObject:
   - component: {fileID: 9118435428155557271}
   - component: {fileID: -8731503093377579548}
   m_Layer: 7
-  m_Name: Cum
-  m_TagString: Cum
+  m_Name: Goo
+  m_TagString: Goo
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -259,11 +259,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d10d5fca08f53346888fbc52fd180af, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cumTile: {fileID: 11400000, guid: 66341ef597adee44998d99ce80b76a90, type: 2}
-  cumTile_slop_positive_out: {fileID: 11400000, guid: f0a429b95d0aec146ab9dfcaa8528be5, type: 2}
-  cumTile_slop_positive_in: {fileID: 11400000, guid: e9c90f77160628d49b1456feefe1743d, type: 2}
-  cumTile_slop_negative_out: {fileID: 11400000, guid: fa19c961224fedc4f84cdb14e4c31f3e, type: 2}
-  cumTile_slop_negative_in: {fileID: 11400000, guid: f7b5a944869673c47ba7d8fa0f897ba3, type: 2}
+  gooTile: {fileID: 11400000, guid: 66341ef597adee44998d99ce80b76a90, type: 2}
+  gooTile_slop_positive_out: {fileID: 11400000, guid: f0a429b95d0aec146ab9dfcaa8528be5, type: 2}
+  gooTile_slop_positive_in: {fileID: 11400000, guid: e9c90f77160628d49b1456feefe1743d, type: 2}
+  gooTile_slop_negative_out: {fileID: 11400000, guid: fa19c961224fedc4f84cdb14e4c31f3e, type: 2}
+  gooTile_slop_negative_in: {fileID: 11400000, guid: f7b5a944869673c47ba7d8fa0f897ba3, type: 2}
 --- !u!1 &7780612328113099003
 GameObject:
   m_ObjectHideFlags: 0

@@ -3657,7 +3657,7 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 804381398}
     - target: {fileID: 9177406254180938676, guid: 0eae9e677735b354ba57e20a23926f30, type: 3}
-      propertyPath: cum_cooldown
+      propertyPath: goo_cooldown
       value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 9177406254180938677, guid: 0eae9e677735b354ba57e20a23926f30, type: 3}
@@ -6432,7 +6432,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pm: {fileID: 804381404}
   normalSpeedCap: 25
-  cumSpeedCap: 50
+  gooSpeedCap: 50
 --- !u!114 &804381404 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 9177406254180938675, guid: 0eae9e677735b354ba57e20a23926f30, type: 3}
