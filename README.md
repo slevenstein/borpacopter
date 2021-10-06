@@ -17,3 +17,5 @@ Complete levels and defeat bosses to rescue some random guy's son from a bald ma
 ### How to Play ###
 
 Download Borpacopter-run.zip and run the "PlaceHolderMoonJam2021-2D" application to play Borpacopter
+
+![Borpacopter-poster](https://user-images.githubusercontent.com/33261445/136125557-f623a50b-7284-4e3d-a95f-4997c0202719.png)
