@@ -12,7 +12,7 @@
 
 ### Objectives ###
 
-Complete levels and defeat bosses to rescue some random guy's son from a bald man in a wig
+Play as Borpa to complete levels and defeat bosses to rescue some random guy's son from a bald man in a wig
 
 ### How to Play ###
 
