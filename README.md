@@ -14,6 +14,10 @@
 
 Play as Borpa to complete levels and defeat bosses to rescue some random guy's son from a bald man in a wig
 
+### Gameplaye Footage ###
+
+https://www.youtube.com/watch?v=HHMG_0YL6h8 (Credit: [72pinkush](https://www.youtube.com/@72pinkush))
+
 ### How to Play ###
 
 Download Borpacopter-run.zip and run the "PlaceHolderMoonJam2021-2D" application to play Borpacopter
